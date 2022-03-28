@@ -1,0 +1,5 @@
+Problem 1: Rational Number Calculator   
+  In this application create a rational number calculator that is capable of taking two 
+rational numbers and an operation to perform on them. Program should handle cases of   
+–ve numbers and nominator without denominator. It should also use defensive 
+programming to reject bad inputs.  
